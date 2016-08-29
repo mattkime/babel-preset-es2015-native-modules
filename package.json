@@ -30,6 +30,6 @@
     "url": "https://github.com/araphel/babel-preset-es2015-native-modules/issues"
   },
   "dependencies": {
-    "babel-preset-es2015": "latest"
+    "babel-preset-es2015": "6.14.0"
   }
 }
